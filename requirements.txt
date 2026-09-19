@@ -1,0 +1,11 @@
+numpy
+pandas
+akshare
+matplotlib
+mplfinance
+PyQt6
+backtrader
+openai
+sqlalchemy
+requests
+python-dotenv
